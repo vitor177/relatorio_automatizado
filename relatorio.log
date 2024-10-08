@@ -1,0 +1,509 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2024.9.9)  23 SEP 2024 10:13
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**relatorio.tex
+(./relatorio.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen143
+\ar@mcellbox=\box45
+\extrarowheight=\dimen144
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen145
+\TX@old@table=\dimen146
+\TX@old@col=\dimen147
+\TX@target=\dimen148
+\TX@delta=\dimen149
+\TX@cols=\count178
+\TX@ftn=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen152
+\captionmargin@=\dimen153
+\captionwidth=\dimen154
+\caption@tempdima=\dimen155
+\caption@indent=\dimen156
+\caption@parindent=\dimen157
+\caption@hangindent=\dimen158
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count179
+\c@continuedfloat=\count180
+)
+\c@subfigure=\count181
+\c@subtable=\count182
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks18
+\minrowclearance=\skip51
+)
+\rownum=\count183
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count184
+\l__pdf_internal_box=\box47
+)
+(./relatorio.aux)
+\openout1 = `relatorio.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count185
+\scratchdimen=\dimen159
+\scratchbox=\box48
+\nofMPsegments=\count186
+\nofMParguments=\count187
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count188
+\MPscratchDim=\dimen160
+\MPnumerator=\count189
+\makeMPintoPDFobject=\count190
+\everyMPtoPDFconversion=\toks20
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 30.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 30.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/bx/n/9 Measured
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Datalogger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 CR300-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 CELL215 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 Camp-bell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Data ac-qui-si-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Modem built
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 into the dat-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Piran^ometro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Horizontal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 Global Ir-ra-di-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Sensitivity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 19,11
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\TS1/cmr/m/n/9 µ\OT1/cmr/m/n/9 V/W/m\TS1/cmr/m/n/9 ²
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 Cal-i-brated on
+ []
+
+
+Overfull \hbox (7.18678pt too wide) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Termohigr^ometro
+ []
+
+
+Underfull \hbox (badness 5431) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 Hy-gro VUE10
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 { Camp-bell
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Air tem-per-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Calibrated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Relative hu-
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 mid-ity of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Anem^ometro
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Calibrated on
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 25/09/2020 -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Painel Fo-to-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 { Elec-tri-cal
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Power Gen-er-a-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Antena Uni-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 di-re-cional
+ []
+
+
+Overfull \hbox (7.88257pt too wide) in paragraph at lines 61--61
+\OT1/cmr/m/n/9 TRA6927M3PW-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\OT1/cmr/m/n/9 Amplify 4G
+ []
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 66.
+ [3]
+<grafico1.pdf, id=18, 867.24pt x 433.62pt>
+File: grafico1.pdf Graphic file (type pdf)
+<use grafico1.pdf>
+Package pdftex.def Info: grafico1.pdf  used on input line 83.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [4 <./grafico1.pdf>]
+<grafico2.pdf, id=60, 867.24pt x 433.62pt>
+File: grafico2.pdf Graphic file (type pdf)
+<use grafico2.pdf>
+Package pdftex.def Info: grafico2.pdf  used on input line 92.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [5 <./grafico2.pdf>] [6]
+<grafico3.pdf, id=110, 867.24pt x 433.62pt>
+File: grafico3.pdf Graphic file (type pdf)
+<use grafico3.pdf>
+Package pdftex.def Info: grafico3.pdf  used on input line 112.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [7 <./grafico3.pdf>]
+<grafico4.pdf, id=152, 867.24pt x 433.62pt>
+File: grafico4.pdf Graphic file (type pdf)
+<use grafico4.pdf>
+Package pdftex.def Info: grafico4.pdf  used on input line 120.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+
+[8 <./grafico4.pdf>] [9]
+<grafico5.pdf, id=203, 867.24pt x 433.62pt>
+File: grafico5.pdf Graphic file (type pdf)
+<use grafico5.pdf>
+Package pdftex.def Info: grafico5.pdf  used on input line 142.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [10 <./grafico5.pdf>]
+<grafico6.pdf, id=242, 867.24pt x 433.62pt>
+File: grafico6.pdf Graphic file (type pdf)
+<use grafico6.pdf>
+Package pdftex.def Info: grafico6.pdf  used on input line 150.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [11 <./grafico6.pdf>] [12]
+<grafico7.pdf, id=288, 867.24pt x 433.62pt>
+File: grafico7.pdf Graphic file (type pdf)
+<use grafico7.pdf>
+Package pdftex.def Info: grafico7.pdf  used on input line 177.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+
+[13 <./grafico7.pdf>]
+<grafico8.pdf, id=336, 867.24pt x 433.62pt>
+File: grafico8.pdf Graphic file (type pdf)
+<use grafico8.pdf>
+Package pdftex.def Info: grafico8.pdf  used on input line 185.
+(pdftex.def)             Requested size: 867.2379pt x 433.61894pt.
+ [14 <./grafico8.pdf>]
+<box_plots.pdf, id=384, 867.24pt x 433.62pt>
+File: box_plots.pdf Graphic file (type pdf)
+<use box_plots.pdf>
+Package pdftex.def Info: box_plots.pdf  used on input line 194.
+(pdftex.def)             Requested size: 452.9679pt x 226.48279pt.
+<parte23.pdf, id=385, 722.7pt x 433.62pt>
+File: parte23.pdf Graphic file (type pdf)
+<use parte23.pdf>
+Package pdftex.def Info: parte23.pdf  used on input line 204.
+(pdftex.def)             Requested size: 256.06956pt x 227.62082pt.
+
+Overfull \hbox (34.11281pt too wide) in paragraph at lines 204--205
+ [][] 
+ []
+
+<parte21.pdf, id=386, 289.08pt x 505.89pt>
+File: parte21.pdf Graphic file (type pdf)
+<use parte21.pdf>
+Package pdftex.def Info: parte21.pdf  used on input line 211.
+(pdftex.def)             Requested size: 142.26357pt x 227.62523pt.
+[15 <./box_plots.pdf> <./parte23.pdf> <./parte21.pdf>]
+<grafico9.pdf, id=528, 578.16pt x 433.62pt>
+File: grafico9.pdf Graphic file (type pdf)
+<use grafico9.pdf>
+Package pdftex.def Info: grafico9.pdf  used on input line 220.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+ [16 <./grafico9.pdf>]
+<grafico10.pdf, id=571, 578.16pt x 433.62pt>
+File: grafico10.pdf Graphic file (type pdf)
+<use grafico10.pdf>
+Package pdftex.def Info: grafico10.pdf  used on input line 230.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+<grafico11.pdf, id=572, 578.16pt x 433.62pt>
+File: grafico11.pdf Graphic file (type pdf)
+<use grafico11.pdf>
+Package pdftex.def Info: grafico11.pdf  used on input line 237.
+(pdftex.def)             Requested size: 578.15858pt x 433.61894pt.
+
+[17 <./grafico10.pdf> <./grafico11.pdf>] (./relatorio.aux) ) 
+Here is how much of TeX's memory you used:
+ 3571 strings out of 483183
+ 54439 string characters out of 5966293
+ 307155 words of memory out of 5000000
+ 18572 multiletter control sequences out of 15000+600000
+ 536930 words of font info for 39 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 48i,14n,46p,324b,361s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/joaovitor/.
+texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.600pk></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmr9.pfb>
+Output written on relatorio.pdf (17 pages, 1994586 bytes).
+PDF statistics:
+ 674 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

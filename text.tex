@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{lipsum} % Para gerar texto de exemplo
+\usepackage{eso-pic}
+
+% Define o cabeçalho e o rodapé
+\pagestyle{fancy}
+\fancyhf{} % Limpa cabeçalhos e rodapés
+
+% Adiciona a imagem ao cabeçalho
+\AddToShipoutPictureBG*{
+    \put(0,0){
+        \includegraphics[width=\paperwidth,height=2in,keepaspectratio]{logo.png}
+    }
+}
+
+% Adiciona o texto ao canto inferior direito da imagem
+\AddToShipoutPictureBG*{
+    \put(\LenToUnit{1in},\LenToUnit{0.5in}){ % Ajuste a posição conforme necessário
+        \textbf{\footnotesize Texto do Canto Inferior Direito}
+    }
+}
+
+\title{Relatório de Análise}
+\author{Seu Nome}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Introdução}
+Este é um relatório gerado automaticamente.
+
+\section{Análise}
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\textwidth]{grafico.png}
+    \caption{Exemplo de Gráfico}
+\end{figure}
+
+\section{Conclusão}
+A análise mostrou uma tendência positiva.
+
+\end{document}
